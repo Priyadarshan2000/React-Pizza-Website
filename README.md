@@ -1,4 +1,20 @@
-# Demo
+## Home Page
+![image](https://user-images.githubusercontent.com/62868878/118631404-14db9880-b7ed-11eb-92bf-d72f323d511e.png)
+
+## Menus
+![image](https://user-images.githubusercontent.com/62868878/118631929-93d0d100-b7ed-11eb-9f1b-1c8db0c2b174.png)
+
+## Feature food
+![image](https://user-images.githubusercontent.com/62868878/118631474-2886ff00-b7ed-11eb-8530-e7b0227830f1.png)
+
+## order Now 
+![image](https://user-images.githubusercontent.com/62868878/118631563-3d639280-b7ed-11eb-9ddc-abc6038a25cc.png)
+
+## Sweets Section
+![image](https://user-images.githubusercontent.com/62868878/118631759-6e43c780-b7ed-11eb-9b93-964a4dc7a1f8.png)
+
+## Footer section
+![image](https://user-images.githubusercontent.com/62868878/118631831-80256a80-b7ed-11eb-84a9-f98cd5b40f1f.png)
 
 
 
