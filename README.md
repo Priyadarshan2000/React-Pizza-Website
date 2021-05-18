@@ -7,7 +7,7 @@
 ## Feature food
 ![image](https://user-images.githubusercontent.com/62868878/118631474-2886ff00-b7ed-11eb-8530-e7b0227830f1.png)
 
-## order Now 
+## Order Now 
 ![image](https://user-images.githubusercontent.com/62868878/118631563-3d639280-b7ed-11eb-9ddc-abc6038a25cc.png)
 
 ## Sweets Section
